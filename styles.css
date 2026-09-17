@@ -1,1 +1,21 @@
-!
+h1{
+    color:Red;
+}
+h2{ 
+    color:  Orange;
+}
+h3{ 
+    color:white;
+}
+h4{
+    color:lavenderblush;
+}
+h5{ 
+     color:bisque; 
+}
+h6{
+     color:antiquewhite; 
+}
+p{
+    color:blueviolet;
+}
